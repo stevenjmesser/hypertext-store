@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Hypertext Store
 
-You can use the [editor on GitHub](https://github.com/stevenjmesser/hypertext-store/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hypertext Store is a library of print documents, such as reports, analysis and election leaflets, liberated on the Web in [Markdown](https://en.wikipedia.org/wiki/Markdown) and [HTML](https://en.wikipedia.org/wiki/HTML).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Why do you need to 'liberate' print documents?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Most people and organisations use the World Wide Web as their main communications tool for distributing documents, but many of those documents are still designed and published for print, usually as [PDFs](https://en.wikipedia.org/wiki/PDF). 
 
-```markdown
-Syntax highlighted code block
+Compared with HTML content, information published in a PDF is harder to find, use and maintain. More importantly, unless created with sufficient care PDFs can often be bad for [accessibility](https://en.wikipedia.org/wiki/Accessibility) and rarely comply with open standards. Good, standards-compliant HTML is almost always better for use on the Web.
 
-# Header 1
-## Header 2
-### Header 3
+For example, it's hard to read PDFs on your smartphone during your daily commute. A4 print pages do not fit most smartphone screens neatly, and the resolution involved means one has to zoom in and out of the page often. It's a terrible reading experience.
 
-- Bulleted
-- List
+Read more about [PDF vs HTML](http://bcn.boulder.co.us/~neal/pdf-vs-html.html) and [why people use PDF](https://gds.blog.gov.uk/2018/07/16/why-gov-uk-content-should-be-published-in-html-and-not-pdf/).
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Can I request an HTML version of a document?
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stevenjmesser/hypertext-store/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Yes! Send me an email, [tweet me](https://twitter.com/stevenjmesser/status/1067672846808375296) or raise a GitHub Issue on this repository. I'll need to know the document title, the publishing organisation and, where possible, a URL for the original document. 
