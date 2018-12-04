@@ -36,3 +36,4 @@ Read more about [PDF vs HTML](http://bcn.boulder.co.us/~neal/pdf-vs-html.html) a
 ## Contents
 
 [Explainer for the agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union](../withdrawal-agreement-explainer.html)
+[Case for The Web](../case-for-the-web.html)
