@@ -39,3 +39,4 @@ Read more about [PDF vs HTML](http://bcn.boulder.co.us/~neal/pdf-vs-html.html) a
 - [Case for The Web](../the-case-for-the-web.html)
 - [Policy paper on citizens' rights in the event of a no deal Brexit](../citizens-rights-if-no-deal.html)
 - [Four Internets: The Geopolitics of Digital Governance](../four-internets-geopolitics-of-digital-governance.html)
+- [Ministry of Defence acronyms and abbreviations](../mod-acronyms-and-abbreviations.html)
