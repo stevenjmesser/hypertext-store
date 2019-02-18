@@ -2,6 +2,8 @@
 
 Hypertext Store is a library of print documents, such as reports, analysis and election leaflets, liberated on the Web in [Markdown](https://en.wikipedia.org/wiki/Markdown) and [HTML](https://en.wikipedia.org/wiki/HTML).
 
+> [Visit Hypertext Store](https://hypertext.store/)
+
 
 ## How did this start?
 
@@ -32,3 +34,7 @@ Compared with HTML content, information published in a PDF is harder to find, us
 For example, it's hard to read PDFs on your smartphone during your daily commute. A4 print pages do not fit most smartphone screens neatly, and the resolution involved means one has to zoom in and out of the page often. It's a terrible reading experience.
 
 Read more about [PDF vs HTML](http://bcn.boulder.co.us/~neal/pdf-vs-html.html) and [why people use PDF](https://gds.blog.gov.uk/2018/07/16/why-gov-uk-content-should-be-published-in-html-and-not-pdf/).
+
+## Why does the document look weird?
+
+Converting from PDF to Markdown is not an exact science. It takes a few seconds to convert a document but considerably longer to go back and fix formatting, therefore some of these files are raw and unprocessed. If you'd like to tidy up a document, please raise a pull request on the [GitHub repository](https://github.com/stevenjmesser/hypertext-store).
