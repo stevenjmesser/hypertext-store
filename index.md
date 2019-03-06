@@ -44,3 +44,4 @@ Converting from PDF to Markdown is not an exact science. It takes a few seconds 
 - [Policy paper on citizens' rights in the event of a no deal Brexit](../citizens-rights-if-no-deal.html)
 - [Four Internets: The Geopolitics of Digital Governance](../four-internets-geopolitics-of-digital-governance.html)
 - [Ministry of Defence acronyms and abbreviations](../mod-acronyms-and-abbreviations.html)
+- [Data Trusts: Ethics, Architecture and Governance for Trustworthy Data Stewardship](../data-trusts.html)
