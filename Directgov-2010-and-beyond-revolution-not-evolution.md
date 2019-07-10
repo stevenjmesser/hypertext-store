@@ -39,13 +39,13 @@ Transform's full report and an executive summary of their findings and
 recommendations are attached for your information
 
 As well as Transform's work, I have been helped by some good discussions
-with an advisory group I pulled together that included brains from the BBe,
+with an advisory group I pulled together that included brains from the BBC,
 Google, M&S, YouGov, academia and venture capital. So whilst these
 recommendations are mine, I hope you will find there is a broad consensus
 about the recommendations - the only differences of opinion are around
 timeframes and operational detail.
 
-1. Transactional Services (and Channel Shift)
+### 1. Transactional Services (and Channel Shift)
 
 Employment, motoring, education and benefits are the primary drivers of visits
 to Directgov and together have constituted 80% of Directgov's traffic in the
@@ -84,12 +84,13 @@ the work of the Efficiency and Reform Group. We must give these SWAT teams the n
 support to challenge any policy and legal barriers which stop services being designed around user needs.
 
 **Recommendation 1**
+
 **Make Directgov the government front end for all departments' transactional
 online services to citizens and businesses, with the teeth to mandate cross
 Government solutions, set standards and force departments to improve
 citizens' experience of key transactions.**
 
-2. Opening up transactional services and content for others to use
+### 2. Opening up transactional services and content for others to use
 
 We should put government transactional services and content where people
 spend their time on the web, rather than always expecting them to go to
@@ -126,12 +127,13 @@ centre of expertise for opening up not just data but also applications and
 services.
 
 **Recommendation 2**
+
 **Make Directgov a wholesaler as well as the retail shop front for government
 services and content by mandating the development and opening up of Application Programme Interfaces 
 (APIs) to third parties**
 
 
-3. Reinventing government online publishing
+### 3. Reinventing government online publishing
 
 Government publishes millions of pages on the Web, via hundreds of different
 websites. Most of these sites are still run as silos within departments. This
@@ -151,7 +153,7 @@ team. There is no need for a major migration of content from existing
 departmental websites, they should simply be archived or mothballed when
 essential content has been commissioned and included in the new site.
 
-### Duplication and Savings
+#### Duplication and Savings
 
 The savings from a reduction in duplication are significant, but will take time to
 realise. The Government recently announced a 75% rationalisation of Government websites. 
@@ -165,7 +167,7 @@ I recommend that any savings from the reduction in duplication should remain
 in departments, once transition costs and ongoing funding for the new central
 team have been taken into account.
 
-### One domain: direct.gov.uk or hmg.gov.uk
+#### One domain: direct.gov.uk or hmg.gov.uk
 
 Ultimately it makes sense to the user for all Government digital services to
 reside under a single brand. The user should not have to navigate the
@@ -199,7 +201,7 @@ addition, search drives the majority of users to government websites and
 direct.gov.uk now has a high search ranking which it would be a waste to
 throw away.
 
-### A shared, agile, cost-effective suite of web technologies
+#### A shared, agile, cost-effective suite of web technologies
 
 There is general consensus that the government online publishing
 infrastructure is not agile enough and is no longer fit for purpose. The contract
@@ -224,7 +226,7 @@ centre of expertise on online service delivery.
 
 [Illustration from Transform Report Executive Summary Page 3](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/60995/Directgov_20Executive_20Sum_20FINAL.pdf)
 
-### No wrong door for citizens
+#### No wrong door for citizens
 
 As importantly, we should be ensuring that citizens find the information they
 want as quickly as possible wherever they are on the web. I do not believe it
@@ -241,6 +243,7 @@ in paid advertising or search to bring people to the Directgov (or a new HMG)
 homepage.
 
 **Recommendation 3**
+
 **The model of government online publishing should change radically, with a
 new central team in Cabinet Office in absolute control of the overall user
 experience across all digital channels, commissioning all government online
@@ -260,7 +263,7 @@ replace existing departmental web publishing infrastructure
 - Put more effort into syndicating government content across the
 third party websites.
 
-4. Funding, capability and leadership
+### 4. Funding, capability and leadership
 
 It is good that Directgov is now part of the Cabinet Office but leadership on the
 digital communications and services agenda in the centre is too fragmented.
@@ -287,6 +290,7 @@ independent.
 I recommend that this position is advertised externally as soon as is possible.
 
 **Recommendation 4**
+
 **A new CEO for Digital in the Cabinet Office should have absolute authority
 over the user experience across all government online services (websites and APIs) and 
 the power to direct all government online spending.**
@@ -299,4 +303,5 @@ Yours sincerely,
 
 
 **Martha Lane Fox**
+
 UK Digital Champion
