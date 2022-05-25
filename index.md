@@ -47,3 +47,4 @@ Converting from PDF to Markdown is not an exact science. It takes a few seconds 
 - [Data Trusts: Ethics, Architecture and Governance for Trustworthy Data Stewardship](../data-trusts.html)
 - [Directgov 2010 and beyond: revolution not evolution](../Directgov-2010-and-beyond-revolution-not-evolution.html)
 - [Our Digital Strategy: a truly digital council and borough 2019–2024](../croydon-borough-council-digital-strategy.html)
+- [Findings of Second Permanent Secretary's Investigation into Alleged Gatherings on Government Premises During Covid Restrictions](../sue-gray-report.html)
