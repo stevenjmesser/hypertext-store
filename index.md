@@ -39,12 +39,12 @@ Converting from PDF to Markdown is not an exact science. It takes a few seconds 
 
 ## Contents
 
-- [Explainer for the agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union](../withdrawal-agreement-explainer.html)
-- [Case for The Web](../the-case-for-the-web.html)
-- [Policy paper on citizens' rights in the event of a no deal Brexit](../citizens-rights-if-no-deal.html)
-- [Four Internets: The Geopolitics of Digital Governance](../four-internets-geopolitics-of-digital-governance.html)
-- [Ministry of Defence acronyms and abbreviations](../mod-acronyms-and-abbreviations.html)
-- [Data Trusts: Ethics, Architecture and Governance for Trustworthy Data Stewardship](../data-trusts.html)
-- [Directgov 2010 and beyond: revolution not evolution](../Directgov-2010-and-beyond-revolution-not-evolution.html)
-- [Our Digital Strategy: a truly digital council and borough 2019–2024](../croydon-borough-council-digital-strategy.html)
-- [Findings of Second Permanent Secretary's Investigation into Alleged Gatherings on Government Premises During Covid Restrictions](../sue-gray-report.html)
+- [Explainer for the agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union](../hypertext-store/withdrawal-agreement-explainer.html)
+- [Case for The Web](../hypertext-store/the-case-for-the-web.html)
+- [Policy paper on citizens' rights in the event of a no deal Brexit](../hypertext-store/citizens-rights-if-no-deal.html)
+- [Four Internets: The Geopolitics of Digital Governance](../hypertext-store/four-internets-geopolitics-of-digital-governance.html)
+- [Ministry of Defence acronyms and abbreviations](../hypertext-store/mod-acronyms-and-abbreviations.html)
+- [Data Trusts: Ethics, Architecture and Governance for Trustworthy Data Stewardship](../hypertext-store/data-trusts.html)
+- [Directgov 2010 and beyond: revolution not evolution](../hypertext-store/Directgov-2010-and-beyond-revolution-not-evolution.html)
+- [Our Digital Strategy: a truly digital council and borough 2019–2024](../hypertext-store/croydon-borough-council-digital-strategy.html)
+- [Findings of Second Permanent Secretary's Investigation into Alleged Gatherings on Government Premises During Covid Restrictions](../hypertext-store/sue-gray-report.html)
