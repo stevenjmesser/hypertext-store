@@ -2,7 +2,7 @@
 
 Hypertext Store is a library of print documents, such as reports, analysis and election leaflets, liberated on the Web in [Markdown](https://en.wikipedia.org/wiki/Markdown) and [HTML](https://en.wikipedia.org/wiki/HTML).
 
-> [Visit Hypertext Store](https://hypertext.store/)
+> [Visit Hypertext Store](https://stevenjmesser.github.io/hypertext-store/)
 
 
 ## How did this start?
